@@ -1,5 +1,5 @@
 var Transitional = function(options) {
-  var data = options.data || {};
+  var data = options.data;
   var state = options.state;
   var rules = options.rules;
 
